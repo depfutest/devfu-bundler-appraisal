@@ -1,8 +1,8 @@
 
-appraise "rake_10" do
-  gem "rake", "~> 10.0"
+appraise "minitest_3" do
+  gem "minitest", "~> 3.0"
 end
 
-appraise "rake_11" do
-  gem "rake", "~> 11.0"
+appraise "minitest_4" do
+  gem "minitest", "~> 4.0"
 end

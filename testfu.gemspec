@@ -10,5 +10,5 @@ Gem::Specification.new do |s|
   s.homepage    = 'https://github.com/halfbyte/flowbyte-foobar'
   s.license     = 'MIT'
 
-  s.add_dependency 'rake', '>= 10.0'
+  s.add_dependency 'minitest', '>= 3.0'
 end
