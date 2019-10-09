@@ -13,6 +13,7 @@ GEM
       thor (>= 0.14.0)
     minitest (4.7.4)
     rake (11.3.0)
+    rr (1.2.0)
     thor (0.20.3)
 
 PLATFORMS
@@ -22,6 +23,7 @@ DEPENDENCIES
   appraisal
   minitest (~> 4.0)
   rake (~> 11.0)
+  rr
   testfu!
 
 BUNDLED WITH
